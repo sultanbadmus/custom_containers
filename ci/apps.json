@@ -1,7 +1,7 @@
 {
     "client_name": [
       {
-        "name": "healthcare",
+        "name": "Healthcare",
         "branch": "develop",
         "url": "https://github.com/frappe/health"
       },
